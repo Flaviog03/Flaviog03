@@ -27,5 +27,5 @@ Questo GitHub è il mio portfolio dinamico. Qui raccolgo sia progetti personali 
 ## 📫 Come contattarmi
 
 *   **LinkedIn:** www.linkedin.com/in/flavio-grammatico
-*   **Email:** flavio.grammatico.lavoro@gmail.com
+*   **Email:** grammaticof3@gmail.com
 > *"Engineering is the closest thing to magic that exists in the world."*
